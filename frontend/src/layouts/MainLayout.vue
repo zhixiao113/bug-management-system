@@ -2,7 +2,9 @@
   <div class="app-shell">
     <aside class="sidebar">
       <div class="brand">
-        <div class="brand-mark">B</div>
+        <div class="brand-mark">
+          <img src="../assets/bugflow-logo.svg" alt="BugFlow 缺陷管理系统图标" />
+        </div>
         <div>
           <strong>BugFlow</strong>
           <span>缺陷管理系统</span>

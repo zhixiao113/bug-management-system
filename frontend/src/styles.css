@@ -91,10 +91,14 @@ a {
   height: 44px;
   place-items: center;
   border-radius: 14px;
-  color: white;
-  font-weight: 900;
-  background: linear-gradient(135deg, var(--primary), var(--cyan));
+  background: rgba(255, 255, 255, 0.4);
   box-shadow: 0 14px 28px rgba(37, 99, 235, 0.3);
+}
+
+.brand-mark img {
+  display: block;
+  width: 44px;
+  height: 44px;
 }
 
 .brand strong {
